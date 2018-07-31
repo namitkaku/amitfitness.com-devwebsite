@@ -1,2 +1,2 @@
 # amitfitness.com-devwebsite
-This site is regarding Gym here you can also purchase supplements by online payment.
+This site is regarding Competition Classes where students can get genuine informmation related to any government exams.
